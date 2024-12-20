@@ -40,7 +40,7 @@ const Services = () => {
     },
   ];
   return (
-    <div className="bg-gray-800 text-white m-5 rounded-lg p-6">
+    <div className="bg-gray-800 text-white m-5 rounded-3xl p-6 ">
       <div className="max-w-7xl mx-auto">
         <div className="flex flex-col space-y-8 md:space-y-0">
           <div className="flex flex-col md:flex-row md:space-x-6 space-y-6 md:space-y-0">
