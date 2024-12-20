@@ -7,8 +7,8 @@ const Explore = () => {
       <h1 className="text-4xl md:text-6xl font-bold text-center text-blue-900">
         Essential Vitamins
       </h1>
-      <div className="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0 md:space-x-24">
-        <div className="text-center md:text-left">
+      <div className="flex flex-col md:flex-row items-center justify-between space-y-6 md:space-y-0 md:space-x-24">
+        <div className="text-center md:text-left space-y-5">
           <p className="text-gray-500">Online Medical Supplies</p>
           <h1 className="text-blue-950 text-lg font-medium">
             Get Your Vitamins & Minerals
@@ -24,7 +24,7 @@ const Explore = () => {
           height={400}
           className="md:py-10"
         />
-        <div className="flex flex-col space-y-4">
+        <div className="flex flex-col space-y-4 md:text-left text-center">
           <div>
             <h1 className="text-blue-950 font-medium text-lg">Vitamins</h1>
             <p className="text-gray-500">

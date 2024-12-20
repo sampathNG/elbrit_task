@@ -1,7 +1,7 @@
 import React from "react";
 const Header = () => {
   return (
-    <section className="flex flex-col items-center justify-center">
+    <section className="flex flex-col items-center justify-center py-5 text-center text-warp">
       <div className="flex">
         <h1 className="text-violet-950 text-2xl font-medium md:text-4xl md:font-bold">
           ELBRIT
